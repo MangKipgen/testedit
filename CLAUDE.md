@@ -108,3 +108,8 @@ The AI uses two primary tools to manipulate the VFS:
 - Optional - app works without API key (returns static code)
 - Authenticated users get component persistence
 - Anonymous users tracked via `anon-work-tracker.ts`
+
+## Coding Best Practices
+
+### Code Documentation
+- Use comments sparingly. Only necessary and complex code
